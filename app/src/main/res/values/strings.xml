@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZhulinaProject</string>
+    <string name="headReg">Register</string>
+    <string name="fieldsName">Name</string>
+    <string name="fieldsSurname">Surname</string>
+    <string name="fieldsPatronymic">Patronymic</string>
+    <string name="fieldsPhoneEmail">Enter Email / Phone Number</string>
+    <string name="headLog">Log In</string>
+    <string name="txtRegAccount"><font color="#9B72CF">Dont’ have an account? Let’s  </font><font color="#53337A"><b>Register</b></font></string>
+</resources>
